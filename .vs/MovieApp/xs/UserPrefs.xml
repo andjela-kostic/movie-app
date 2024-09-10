@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{183FD324-C303-477D-972A-0A87568146BC}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Program.cs">
+    <Files>
+      <File FileName="Infrastracture/InfrastructureStartup.cs" Line="14" Column="59" />
+      <File FileName="Infrastracture/Configuration/AppDbInitializer.cs" Line="16" Column="21" />
+      <File FileName="Domain/Entities/MovieGenre.cs" Line="18" Column="2" />
+      <File FileName="Infrastracture/Persistance/ApplicationDbContext.cs" Line="54" Column="8" />
+      <File FileName="API/Program.cs" Line="23" Column="25" />
+      <File FileName="Domain/Entities/Actor.cs" Line="11" Column="6" />
+      <File FileName="Domain/Entities/Common/Person.cs" Line="16" Column="6" />
+      <File FileName="Domain/Entities/Director.cs" Line="5" Column="14" />
+      <File FileName="Domain/Entities/Genre.cs" Line="14" Column="6" />
+      <File FileName="Domain/Entities/Movie.cs" Line="9" Column="25" />
+      <File FileName="Infrastracture/Migrations/ApplicationDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="API/appsettings.json" Line="1" Column="1" />
+      <File FileName="API/appsettings.Development.json" Line="3" Column="80" />
+      <File FileName="API/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieApp" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="Domain" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Entities" expanded="True">
+                <Node name="Common" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Infrastracture" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Configuration" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Persistance" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

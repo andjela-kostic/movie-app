@@ -1,0 +1,17 @@
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/bin/Debug/net8.0/Infrastracture.deps.json
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/bin/Debug/net8.0/Infrastracture.runtimeconfig.json
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/bin/Debug/net8.0/Infrastracture.dll
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/bin/Debug/net8.0/Infrastracture.pdb
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/bin/Debug/net8.0/Domain.dll
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/bin/Debug/net8.0/Domain.pdb
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/obj/Debug/net8.0/Infrastracture.csproj.AssemblyReference.cache
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/obj/Debug/net8.0/Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/obj/Debug/net8.0/Infrastracture.AssemblyInfoInputs.cache
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/obj/Debug/net8.0/Infrastracture.AssemblyInfo.cs
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/obj/Debug/net8.0/Infrastracture.csproj.CoreCompileInputs.cache
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/obj/Debug/net8.0/Infrastr.15F6909A.Up2Date
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/obj/Debug/net8.0/Infrastracture.dll
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/obj/Debug/net8.0/refint/Infrastracture.dll
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/obj/Debug/net8.0/Infrastracture.pdb
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/obj/Debug/net8.0/Infrastracture.genruntimeconfig.cache
+/Users/andjelakostic/RiderProjects/MovieApp/Infrastracture/obj/Debug/net8.0/ref/Infrastracture.dll

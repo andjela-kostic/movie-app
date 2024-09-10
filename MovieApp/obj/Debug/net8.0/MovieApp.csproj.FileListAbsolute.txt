@@ -1,0 +1,14 @@
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/bin/Debug/net8.0/MovieApp
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/bin/Debug/net8.0/MovieApp.deps.json
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/bin/Debug/net8.0/MovieApp.runtimeconfig.json
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/bin/Debug/net8.0/MovieApp.dll
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/bin/Debug/net8.0/MovieApp.pdb
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/obj/Debug/net8.0/MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/obj/Debug/net8.0/MovieApp.AssemblyInfoInputs.cache
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/obj/Debug/net8.0/MovieApp.AssemblyInfo.cs
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/obj/Debug/net8.0/MovieApp.csproj.CoreCompileInputs.cache
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/obj/Debug/net8.0/MovieApp.dll
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/obj/Debug/net8.0/refint/MovieApp.dll
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/obj/Debug/net8.0/MovieApp.pdb
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/obj/Debug/net8.0/MovieApp.genruntimeconfig.cache
+/Users/andjelakostic/RiderProjects/MovieApp/MovieApp/obj/Debug/net8.0/ref/MovieApp.dll
